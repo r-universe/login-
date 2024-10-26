@@ -5,6 +5,9 @@
 [submodule "genular"]
 	path = genular
 	url = https://github.com/cran/genular
+[submodule "immunaut"]
+	path = immunaut
+	url = https://github.com/cran/immunaut
 [submodule "mulset"]
 	path = mulset
 	url = https://github.com/cran/mulset
